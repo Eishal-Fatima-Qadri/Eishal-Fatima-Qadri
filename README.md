@@ -19,9 +19,9 @@ After honing my front-end skills, I will be transitioning into backend developme
 
 💻 **My Skills:**
 
-Programming Languages: C++, JavaScript
-Front-End Development: HTML, CSS, Bootstrap, JavaScript (with a keen eye for responsive and user-friendly design)
-Back-End Development: Currently expanding my knowledge to build strong server-side applications
+- Programming Languages: C++, JavaScript
+- Front-End Development: HTML, CSS, Bootstrap, JavaScript (with a keen eye for responsive and user-friendly design)
+- Back-End Development: Currently expanding my knowledge to build strong server-side applications
 
 🚀 **My Journey:**
 
