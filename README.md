@@ -14,8 +14,8 @@ I am a dedicated and ambitious Software Engineering student who has just complet
 - 🌱 Diving deeper into web development, with a focus on JavaScript for creating dynamic and interactive user interfaces.
 
 
-💻 **My Skills:**
 
+💻 **My Skills:**
 - Programming Languages: C++, JavaScript
 - Front-End Development: HTML, CSS, Bootstrap, JavaScript (with a keen eye for responsive and user-friendly design)
 - Back-End Development: Currently expanding my knowledge to build strong server-side applications
