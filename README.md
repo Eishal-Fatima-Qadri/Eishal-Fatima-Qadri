@@ -20,6 +20,7 @@ I am a dedicated and ambitious Software Engineering student who has just complet
 - Front-End Development: HTML, CSS, Bootstrap, JavaScript (with a keen eye for responsive and user-friendly design)
 - Back-End Development: Currently expanding my knowledge to build strong server-side applications
 
+
 🚀 **My Journey:**
 
 Throughout my first year at university, I developed a solid foundation in programming, particularly C++, which enhanced my problem-solving abilities. Alongside my coursework, I discovered a deep interest in web development, an area that continues to thrive and is in high demand. I have since polished my skills in front-end technologies like HTML, CSS, Bootstrap, JavaScript etc allowing me to create intuitive and visually appealing web interfaces.
