@@ -10,9 +10,10 @@ I am a dedicated and ambitious Software Engineering student who has just complet
 
 🔭 **What I'm Currently Up To:**
 
-📚 Continuing my journey through university, where I'm polishing my skills in C++ as part of my coursework.
-🌱 Diving deeper into web development, with a focus on JavaScript for creating dynamic and interactive user interfaces.
-🧩 After honing my front-end skills, I am now transitioning into back-end development to build robust, secure, and scalable server-side solutions.
+- 📚 Continuing my journey through university, where I'm polishing my skills in C++ as part of my coursework.
+- 🌱 Diving deeper into web development, with a focus on JavaScript for creating dynamic and interactive user interfaces.
+- 🧩 After honing my front-end skills, I am now transitioning into back-end development to build robust, secure, and scalable server-side solutions.
+
 After honing my front-end skills, I will be transitioning into backend development. My goal is to understand and implement robust, secure, and scalable server-side solutions by exploring the key technologies and tools involved.
 
 
