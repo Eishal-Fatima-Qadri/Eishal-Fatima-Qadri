@@ -1,4 +1,4 @@
-## Hello, I'm Eishal! 👋 
+## Hey there, I'm Eishal! 👋 
 I am a dedicated and ambitious Software Engineering student who has just completed her first year of university. With a passion for coding and problem-solving, I am constantly seeking opportunities to expand my skill set and grow as a developer.
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=Eishal-Fatima-Qadri&style=flat-square&color=blue" alt=""/>
