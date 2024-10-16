@@ -9,17 +9,20 @@ I am a dedicated and ambitious Software Engineering student who has just complet
 </div>
 
 🔭 **What I'm Currently Up To:**
+
 📚 Continuing my journey through university, where I'm polishing my skills in C++ as part of my coursework.
 🌱 Diving deeper into web development, with a focus on JavaScript for creating dynamic and interactive user interfaces.
 🧩 After honing my front-end skills, I am now transitioning into back-end development to build robust, secure, and scalable server-side solutions.
 After honing my front-end skills, I will be transitioning into backend development. My goal is to understand and implement robust, secure, and scalable server-side solutions by exploring the key technologies and tools involved.
 
 💻 **My Skills:**
+
 Programming Languages: C++, JavaScript
 Front-End Development: HTML, CSS, Bootstrap, JavaScript (with a keen eye for responsive and user-friendly design)
 Back-End Development: Currently expanding my knowledge to build strong server-side applications
 
 🚀 **My Journey:**
+
 Throughout my first year at university, I developed a solid foundation in programming, particularly C++, which enhanced my problem-solving abilities. Alongside my coursework, I discovered a deep interest in web development, an area that continues to thrive and is in high demand. I have since polished my skills in front-end technologies like HTML, CSS, Bootstrap, and JavaScript, allowing me to create intuitive and visually appealing web interfaces.
 
 My current focus is on back-end development, where I am learning to build robust, secure, and scalable server-side applications. My goal is to gain hands-on experience with essential technologies and tools, so I can understand and implement full-stack solutions effectively.
