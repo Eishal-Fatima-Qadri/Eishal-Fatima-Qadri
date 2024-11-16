@@ -49,5 +49,4 @@ My current focus is on back-end development, where I am learning to build robust
 ---
 
 ### :fire: My Stats :
-https://streak-stats.demolab.com?user=Eishal-Fatima-Qadri&theme=dark-minimalist&border_radius=5
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Eishal-Fatima-Qadri&theme=dark-minimalist&border_radius=5" alt="GitHub Streak" /></a>
