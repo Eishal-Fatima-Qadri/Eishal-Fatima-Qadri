@@ -45,3 +45,9 @@ My current focus is on back-end development, where I am learning to build robust
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>&nbsp;
   
 </div>
+
+---
+
+### :fire: My Stats :
+https://streak-stats.demolab.com?user=Eishal-Fatima-Qadri&theme=dark-minimalist&border_radius=5
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Eishal-Fatima-Qadri&theme=dark-minimalist&border_radius=5" alt="GitHub Streak" /></a>
