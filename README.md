@@ -48,7 +48,4 @@ My current focus is on back-end development, where I am learning to build robust
 
 ---
 
-### :fire: my stats :
-[![GitHub Streak](https://streak-stats.demolab.com/Eishal-Fatima-Qadri=DenverCoder1)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eishal-Fatima-Qadri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
