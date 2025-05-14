@@ -54,7 +54,8 @@ My current focus is on back-end development, where I am learning to build robust
 
 ### 🔥 My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eishal-Fatima-Qadri&theme=dracula)](https://git.io/streak-stats)
+![Eishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eishal-Fatima-Qadri&show_icons=true&theme=dracula)
+
 
 
 
