@@ -52,4 +52,12 @@ My current focus is on back-end development, where I am learning to build robust
 
 ---
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eishal-Fatima-Qadri&theme=dracula)](https://git.io/streak-stats)
+
+
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eishal-Fatima-Qadri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
