@@ -54,7 +54,7 @@ My current focus is on back-end development, where I am learning to build robust
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eishal-Fatima-Qadri&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eishal-Fatima-Qadri&theme=dracula)]
 
 
 
