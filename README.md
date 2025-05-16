@@ -1,5 +1,5 @@
 ## Hey there, I'm Eishal! 👋 
-I am a dedicated and ambitious Software Engineering student who has just completed her first year of university. With a passion for coding and problem-solving, I am constantly seeking opportunities to expand my skill set and grow as a developer.
+I am a dedicated and ambitious Software Engineering student who has just completed her second year of university. With a passion for coding and problem-solving, I am constantly seeking opportunities to expand my skill set and grow as a developer.
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=Eishal-Fatima-Qadri&style=flat-square&color=blue" alt=""/>
 </div>
@@ -10,20 +10,20 @@ I am a dedicated and ambitious Software Engineering student who has just complet
 
 🔭 **What I'm Currently Up To:**
 
-- 📚 Continuing my journey through university, where I'm polishing my skills in C++ as part of my coursework.
-- 🌱 Diving deeper into web development, with a focus on JavaScript for creating dynamic and interactive user interfaces.
+- 📚 Continuing my journey through university, where I'm polishing my skills in C++ and C as part of my coursework.
+- 🌱 Diving deeper into web development.
 
 
 
 💻 **My Skills:**
 - Programming Languages: C, C++, JavaScript, TypeScript
-- Front-End Development: HTML, CSS, Bootstrap, JavaScript (with a keen eye for responsive and user-friendly design)
-- Back-End Development: Currently expanding my knowledge to build strong server-side applications
+- Front-End Development: HTML, CSS, Bootstrap, JavaScript, Tailwind, ReactJS
+- Back-End Development: NodeJS, ExpressJS, RestAPI
 
 
 🚀 **My Journey:**
 
-Throughout my first year at university, I developed a solid foundation in programming, particularly C++, which enhanced my problem-solving abilities. Alongside my coursework, I discovered a deep interest in web development, an area that continues to thrive and is in high demand. I have since polished my skills in front-end technologies like HTML, CSS, Bootstrap, JavaScript etc allowing me to create intuitive and visually appealing web interfaces.
+Throughout my first year at university, I developed a solid foundation in programming, particularly C++, which enhanced my problem-solving abilities. Alongside my coursework, I discovered a deep interest in web development, an area that continues to thrive and is in high demand. I have since polished my skills in several front-end technologies allowing me to create intuitive and visually appealing web interfaces.
 
 My current focus is on back-end development, where I am learning to build robust, secure, and scalable server-side applications. My goal is to gain hands-on experience with essential technologies and tools, so I can understand and implement full-stack solutions effectively.
 
