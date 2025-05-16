@@ -23,7 +23,7 @@ I am a dedicated and ambitious Software Engineering student who has just complet
 
 🚀 **My Journey:**
 
-Throughout my first year at university, I developed a solid foundation in programming, particularly C++, which enhanced my problem-solving abilities. Alongside my coursework, I discovered a deep interest in web development, an area that continues to thrive and is in high demand. I have since polished my skills in several front-end technologies allowing me to create intuitive and visually appealing web interfaces.
+Throughout my first two years at university, I developed a solid foundation in programming, particularly C++ and C, which enhanced my problem-solving abilities. Alongside my coursework, I discovered a deep interest in web development, an area that continues to thrive and is in high demand. I have since polished my skills in several front-end technologies allowing me to create intuitive and visually appealing web interfaces.
 
 My current focus is on back-end development, where I am learning to build robust, secure, and scalable server-side applications. My goal is to gain hands-on experience with essential technologies and tools, so I can understand and implement full-stack solutions effectively.
 
