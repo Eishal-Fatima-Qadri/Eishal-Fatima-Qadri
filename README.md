@@ -60,7 +60,23 @@ My current focus is on back-end development, where I am learning to build robust
 
 ### 🔥 My Stats :
 
-![Eishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eishal-Fatima-Qadri&show_icons=true&theme=dracula)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eishal-Fatima-Qadri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Eishal-Fatima-Qadri&show_icons=true&theme=dracula" alt="Eishal's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eishal-Fatima-Qadri&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 
 
 
