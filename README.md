@@ -16,7 +16,7 @@ I am a dedicated and ambitious Software Engineering student who has just complet
 
 
 💻 **My Skills:**
-- Programming Languages: C, C++, JavaScript
+- Programming Languages: C, C++, JavaScript, TypeScript
 - Front-End Development: HTML, CSS, Bootstrap, JavaScript (with a keen eye for responsive and user-friendly design)
 - Back-End Development: Currently expanding my knowledge to build strong server-side applications
 
@@ -49,6 +49,9 @@ My current focus is on back-end development, where I am learning to build robust
      <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"/>&nbsp;
          <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>&nbsp;
          <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/>&nbsp;
+         <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40"/>&nbsp;
+         
   
   
 </div>
